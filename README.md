@@ -6,7 +6,10 @@ This is a sample repository used for practice purpose only and it doesn't harm a
 
 
 
-
+## Features
+- Practice Issues
+- Practice Pull Requests
+- Learn GitHub workflow
 
 
 
