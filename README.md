@@ -1,7 +1,7 @@
 Welcome to my GitHub practice project 🚀
 
 
-Hello from Feature A 🚀
+Hello from Feature A 🚀 and Feature B 😎
 
 
 
