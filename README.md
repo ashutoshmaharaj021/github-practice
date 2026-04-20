@@ -12,9 +12,10 @@ This is a sample repository used for practice purpose only and it doesn't harm a
 - Learn GitHub workflow
 
 
-
-
-
+## Installation
+1. Clone the repo
+2. Open in VS Code
+3. Start editing
 
 
 
