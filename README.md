@@ -4,6 +4,10 @@ Welcome to my GitHub practice project 🚀
 Hello from Feature A 🚀 and Feature B 😎
 
 
+💻 Tech Stack: Python | JavaScript | C++ | SQL  
+🚀 Interests: AI/ML, Web Development, Problem Solving  
+📌 Projects: Heart Disease Prediction, Food Distribution System
+
 
 This is a sample repository used for practice purpose only and it doesn't harm any active envioronment and this repository is just for practice purpose only 
 
